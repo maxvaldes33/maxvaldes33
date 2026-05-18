@@ -21,7 +21,7 @@ limpieza de datos hasta bots de automatización web y generadores de reportes.
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![pandas](https://img.shields.io/badge/pandas-openpyxl-green)
 ![PyQt5](https://img.shields.io/badge/PyQt5-PyInstaller-orange)
-![Power BI](https://img.shields.io/badge/Power%20BI-Qlik%20Cloud-red)
+![Power BI](https://img.shields.io/badge/Power%20BI-red)
 
 ---
 
