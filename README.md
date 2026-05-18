@@ -13,7 +13,7 @@ limpieza de datos hasta bots de automatización web y generadores de reportes.
 - Automatizaciones Python para campañas de cobranza masiva (SMS, email, WhatsApp)
 - Herramientas de escritorio con PyQt5 / tkinter + PyInstaller
 - Bots de scraping y navegación web con Selenium
-- Pipelines de datos: Excel → procesamiento → reportería (Power BI / Qlik Cloud)
+- Pipelines de datos: Excel → procesamiento → reportería (Power BI)
 - Templates HTML para email marketing transaccional
 
 **Stack**
