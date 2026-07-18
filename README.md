@@ -1,6 +1,6 @@
 ### Maximiliano Valdés Musrri — Ingeniero en Informática
 
-📍 Santiago, Chile · Multicob · egresado mayo 2025
+📍 Santiago, Chile · Multicob · Gen 2025
 
 ---
 
